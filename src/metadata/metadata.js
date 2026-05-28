@@ -5,7 +5,7 @@ module.exports = {
     'Website': '<a href="https://ksenia-portu.com"><i class="fa fa-home fact-icon"></i>ksenia-portu.com</a>',    
     'Linkedin': `<a href="https://www.linkedin.com/in/ksenia-portu"><i class="fa-brands fa-linkedin fact-icon"></i>Ksenia Portu</a>`,
     'Github': `<a href="https://github.com/ksenia-portu"><i class="fa-brands fa-github fact-icon"></i>Ksenia Portu</a>`,    
-    'Email': '<a href="mailto:ksenia.portu@gmail.com"><i class="fa fa-envelope fact-icon"></i>ksenia.portu@gmail.com</a>'
+    'Email': '<a href="mailto:ksenia.portu@proton.me"><i class="fa fa-envelope fact-icon"></i>ksenia.portu@gmail.com</a>'
   },
   skills: [
     ['Mathematics', 100],    
